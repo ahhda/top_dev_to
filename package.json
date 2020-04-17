@@ -1,0 +1,13 @@
+{
+  "name": "top_dev_to",
+  "version": "1.0.0",
+  "description": "Analysis on top 1000 articles about when and what",
+  "main": "getTop.js",
+  "dependencies": {
+    "date-fns": "^2.12.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "author": "Anuj Bansal",
+  "license": "MIT"
+}
